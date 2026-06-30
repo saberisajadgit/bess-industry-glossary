@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BESS Industry Glossary
 
 A reference glossary for the acronyms and core concepts that come up constantly in Battery Energy Storage System (BESS) engineering, commercial, and procurement work — grid operators, capacity-market accreditation, battery technical terms, fire-safety standards, contract/commercial vocabulary, and revenue-stream terminology.
@@ -35,3 +36,7 @@ Content is licensed under [CC BY 4.0](LICENSE) — use it, share it, fork it, ju
 ---
 
 Maintained by Sam. Find the full *Industrial Ledger* series on [LinkedIn](#).
+=======
+# bess-industry-glossary
+Reference glossary for BESS acronyms and concepts — grid markets, battery technical terms, safety standards, and contracts.
+>>>>>>> cf976a31c552f4049c83b5bc40e0924c9d0aed6a
